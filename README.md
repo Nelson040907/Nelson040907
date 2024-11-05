@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nelson040907
+- 👋 Hi, I’m @BIGDEE
 - 👀 I’m interested in ...many things 
 - 🌱 I’m currently learning ...full stack dev 
 - 💞️ I’m looking to collaborate on ...
